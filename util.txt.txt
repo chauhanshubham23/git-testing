@@ -1,1 +1,1 @@
-This is the util page version 2 of git command.
+This is the util page version 2 of git command line course.
